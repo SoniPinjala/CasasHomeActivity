@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620246531493",
+    "firebase_url": "https://homeactivity-39bc1.firebaseio.com",
+    "project_id": "homeactivity-39bc1",
+    "storage_bucket": "homeactivity-39bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620246531493:android:cc568bb0c291d39f66bc4c",
+        "android_client_info": {
+          "package_name": "com.example.homeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620246531493-ein55et3eavc0jsc0a6ku7tj6jkhqjvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVeW1JFI3_5MQ48fZBhtBNR_SqsL1QtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620246531493-ein55et3eavc0jsc0a6ku7tj6jkhqjvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
